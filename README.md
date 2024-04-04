@@ -1,1 +1,2 @@
 # Heart_disease_prediction
+Malware, malicious software designed to exploit vulnerabilities and compromise digital systems, poses a significant threat to individuals and organizations alike. As cybercriminals constantly evolve their attack methods, combating malware requires sophisticated techniques and robust cybersecurity solutions. In this project, we embark on a critical mission to develop an effective malware classification system using the power of deep learning.
