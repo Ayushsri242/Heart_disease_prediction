@@ -1,2 +1,3 @@
 # Heart_disease_prediction
-Malware, malicious software designed to exploit vulnerabilities and compromise digital systems, poses a significant threat to individuals and organizations alike. As cybercriminals constantly evolve their attack methods, combating malware requires sophisticated techniques and robust cybersecurity solutions. In this project, we embark on a critical mission to develop an effective malware classification system using the power of deep learning.
+ Machine learning is used to detect whether a person is suffering from cardiovascular disease by considering certain attributes like chest pain, cholesterol
+level, age of the person, and some other attributes.
